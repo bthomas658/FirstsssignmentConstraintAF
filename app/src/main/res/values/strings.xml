@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstsssignmentConstraintAF</string>
+    <string name="name">Bill Thomas</string>
+    <string name="poe">Computer Science</string>
+    <string name="java">Yes I have Java Experience</string>
+    <string name="cs2">CS2? Yes a long time ago</string>
+    <string name="software_engineering">I am teaching Software Engineering</string>
+    <string name="sql">Yes I do have SQL experience</string>
+</resources>
